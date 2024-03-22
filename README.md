@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmmychn
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning React.js
+- 👀 I’m a Front End Developer @ GrowthOps
+- 🌱 I’m currently learning Three.js
 - 📫 Reach me @ tommycxy22@gmail.com
 
 <!---
