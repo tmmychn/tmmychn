@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmmychn
 - 👀 I’m a Front End Developer @ GrowthOps
-- 🌱 I’m currently learning Three.js
+- 🌱 I’m currently learning React Native
 - 📫 Reach me @ tommycxy22@gmail.com
 
 <!---
